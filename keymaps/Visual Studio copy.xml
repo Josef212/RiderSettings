@@ -2,7 +2,8 @@
   <action id="ChangeSplitOrientation">
     <keyboard-shortcut first-keystroke="ctrl dead_grave" second-keystroke="ctrl dead_grave" />
   </action>
-  <action id="CloseActiveTab">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CollapseAllRegions">
