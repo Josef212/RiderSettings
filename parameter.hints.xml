@@ -1,0 +1,7 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Rust" />
+    </blacklists>
+  </component>
+</application>
